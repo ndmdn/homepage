@@ -1,0 +1,21 @@
+title = "Neal MacInnes"
+baseURL = "http://nealmacinnes.com"
+languageCode = "en-us"
+theme = "hugo-black-and-light-theme"
+author = "Neal MacInnes"
+canonifyurls = true
+
+
+[params]
+  sitename = "NEAL MacINNES"
+  description = "Neal's CV"
+
+[[menu.main]]
+    name = "BIO"
+    url  = "#"
+[[menu.main]]
+    name = "CV"
+    url  = "#"
+[[menu.main]]
+    name = "ARTS"
+    url  = "#"
